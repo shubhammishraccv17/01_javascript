@@ -1,0 +1,20 @@
+Inserting java script inside html files 
+
+
+<html>
+<head><title></title>
+<script language ="javascript"  type="text/javascript" >
+</script>
+</head>
+
+<body>
+<script>
+
+        ................your javascript code 
+        
+        
+        
+        
+</script>
+</body>
+</html>
